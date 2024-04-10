@@ -1,6 +1,6 @@
 ![quarkus](https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef =250x250)
 
-<img src="https://your-image-url.type](https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef" width="100" height="100">
+<img src="https://your-image-url.type](https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef" width="1000" height="1000">
 
 # avatar
 
