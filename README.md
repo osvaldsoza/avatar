@@ -1,6 +1,9 @@
  <img src="https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef.png" width="300" />
 
-# avatar
+ [Traduzir para Português](https://github.com/osvaldsoza/avatar/blob/main/README-pt.md)
+
+# Project Summary
+Technical assessment of the ``Builder`` company for backend developer.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
