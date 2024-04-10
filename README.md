@@ -1,4 +1,4 @@
-![quarkus](https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef)
+![quarkus](https://github.com/osvaldsoza/avatar/assets/9426175/fce298d0-7527-48cc-944c-b1b0c1f366ef =250x250)
 
 # avatar
 
