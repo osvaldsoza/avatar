@@ -2,5 +2,5 @@
 
  [Translate to English](https://github.com/osvaldsoza/avatar/blob/main/README.md)
 
-# Project Summary
-Technical assessment of the ``Builder`` company for backend developer.
+# Resumo do projeto
+
